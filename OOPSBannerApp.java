@@ -1,6 +1,6 @@
 /**
  * OOPSBannerApp UC5 - OOPS Banner Display Application
- * @author Satviik Daga
+ * @author Uzair Sikwani
  * @version 5.0
  */
 public class OOPSBannerApp {
